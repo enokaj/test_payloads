@@ -1,0 +1,5 @@
+echo 'ls'
+2
+3${IFS}|ls
+4${IFS}|ls
+1${IFS}|ls
